@@ -1,0 +1,7 @@
+PRODUCT INTRODUCTION
+In this project i would be creating a website named as fix-it.in this website i will provide
+repair services such as plumbering ,electrician ,mechanic, carpenters,mobile and laptop technicians.
+It is often seen that people had to pay much higher for all these skill based jobs as there aren't 
+many competitors so our main motive would be to provide all these services at a much cheaper cost so that 
+everyone could easily acess all these services asap.moreover, we will also provide jobs and training to new
+candidates who would like to join the team and work with the team.
