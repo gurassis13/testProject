@@ -1,3 +1,6 @@
+Gurassis Makkar
+570490
+
 PROJECT INTRODUCTION
 In this project i would be creating a website named as fix-it.in this website i will provide
 repair services such as plumbering ,electrician ,mechanic, carpenters,mobile and laptop technicians.
